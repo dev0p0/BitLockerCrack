@@ -14,6 +14,5 @@ First, you need python 3.X, preferably the newest version, installed. Also this 
 You copy the "BitLockerCrack.py" from this repository to a folder of your choosing, open command prompt with admin privileges, and then run it like this: 'python BitLockerCrack.py D:' and hit enter, then it starts finding the password.
 The sad part is that this is not a multithreaded or parallel brute forcer, not that it would make any difference as long as it would call 'manage-bde', and that it runs on only one core.
 
-For faster options, you should look into https://github.com/e-ago/bitcracker.
-
+For faster options, you should look into https://github.com/e-ago/bitcracker, from a probabilistic view it would be throwing a coin with 10^48 much faster than this tool! :D
 Good luck cracking!
